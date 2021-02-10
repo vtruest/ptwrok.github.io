@@ -1,10 +1,3 @@
-about-me
-========
-
-
+# maozongmin
 个人简历
-
-##使用条款
-
-**请不要在任何场合使用此项目中本人的照片。**
-
+https://maozongmin.github.io/maozongmin/
